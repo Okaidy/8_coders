@@ -1,0 +1,21 @@
+/* Inserta tu código aqui */
+p{
+	color: white;
+/*Aqui se mueven todos los parrafos */		
+}
+div>p{
+	position: absolute;
+	bottom:0px;
+	right:5px;
+}
+body{
+	padding:50px 300px;
+}
+.linea{ 
+	display: inline-block;
+	position: relative;
+	margin:10px;
+}
+img{
+	opacity: 0.5;
+}
